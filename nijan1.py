@@ -1,2 +1,2 @@
-for i in range(5):
-    print(i)
+if(2==2):
+    print("true")
